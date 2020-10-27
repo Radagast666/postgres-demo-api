@@ -1,0 +1,9 @@
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/Ng5ApiApplication.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/model/Question.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/repository/QuestionRepository.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/controller/QuestionController.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/model/Answer.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/controller/AnswerController.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/repository/AnswerRepository.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/exception/ResourceNotFoundException.java
+/home/radagast/Documents/ng5-api/src/main/java/com/example/ng5api/model/AuditModel.java
